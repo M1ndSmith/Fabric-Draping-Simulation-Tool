@@ -15,9 +15,9 @@ The tool allows users to explore the effects of key parameters (e.g., punch spee
 ✅ **Interactive Parameter Tuning**  
 - Adjust punch speed, mesh size, material properties (shear & tensile moduli), friction coefficients, and holder force.  
 
-✅ **Real-Time Visualization**  
+✅ **Output Visualization**  
 - **Shear Angle Plot**: Shows how shear varies along the fabric's diagonal.  
-- **3D Deformation Plot**: Displays the draped fabric shape (hemisphere + flat rim).  
+- **Deformation Plot**: Displays the draped fabric shape (hemisphere + flat rim).  
 
 ✅ **Physics-Based Approximations**  
 - Empirical shear angle model derived from the paper.  
